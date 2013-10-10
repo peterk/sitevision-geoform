@@ -29,6 +29,8 @@ I denna mall har jag skapat en gridrad och två gridspalter om 6 kolumner varder
 
 Skapa en ny sida baserad på föregående mall. Ställ in "Tillägg i head" på sidan och peka ut denna stilmallsfil: https://netdna.bootstrapcdn.com/bootswatch/2.3.2/cerulean/bootstrap.min.css - den gör knappar lite tydligare. Lägg till en logotyp och en inledande text på sidan.
 
+![Inlänkning av extern CSS fil under egenskaper på sidan](https://raw.github.com/peterk/sitevision-geoform/master/screens/02_head-css.png)
+
 
 ### <a id="h3"></a>3. Skapa ett e-postformulär med fält för positionering
 
