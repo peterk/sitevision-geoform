@@ -1,7 +1,7 @@
 Sitevision mobilformulär
 ========================
 
-<img src="https://raw.github.com/peterk/sitevision-geoform/master/screens/ios.png" alt="iPhone som visar ett formulär med en karta i. Koden använder telefonens GPS för att positionera användaren." style="float:right">
+<div style="float:right"><img width="220" src="https://raw.github.com/peterk/sitevision-geoform/master/screens/ios.png" alt="iPhone som visar ett formulär med en karta i. Koden använder telefonens GPS för att positionera användaren." width></div>
 
 En miniguide för att skapa ett mobilformulär med geopositionering och bifoga
 bild i Sitevision. Testat i Sitevision version 3.5.3 men bör fungera från 3.0.
